@@ -12,6 +12,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     float: left;
     align-content: center;
     align-items: center;
+    height: 132px;
+    width: 99px;
 }
 .jumbotron {
     padding: 2rem 1rem;
@@ -24,5 +26,4 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     display: flex;
     padding-left: 15px;
 }
-
 
